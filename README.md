@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋👌
 
-<!--
-**Ghazipour/ghazipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+- 🔭 I’m currently working on Git and Python and C#.
+- 🌱 I’m currently learning Git and Python and C#.
+- 💬 Ask me about programming and my jobs.
+- 😄 I'm also known by jupiter.
 
-Here are some ideas to get you started:
+### Programming languages:
+- Python
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Used technologies:
+- **Git** 
+- **GitHub**
+- **Windows**
+- **Visual Studio Code**
+- Python IDLE
+- *Pycharm*
+
+## Social medias:
+- **[Telegtam](https://t.me/pghazipour)**
+- **[Linkedin](https://www.linkedin.com/in/parsa-ghazipour-3301b3229/)**
+- **<ghazipour@protonmail.com>**
