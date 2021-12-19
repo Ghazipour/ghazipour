@@ -14,9 +14,10 @@
 - **Git** 
 - **GitHub**
 - **Windows**
-- **Visual Studio Code**
-- Python IDLE
+- **Visual studio code**
+- **Python IDLE**
 - *Pycharm*
+- *Visual studio*
 
 ## Social medias:
 - **[Telegtam](https://t.me/pghazipour)**
