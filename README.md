@@ -1,23 +1,18 @@
 # Hi there 👋👌
 
 ### About me
->- 🔭 I’m currently working on Git and Python and C#.
->- 🌱 I’m currently learning Git and Python and C#.
+>- 🔭 I’m currently working on Git and Python.
+>- 🌱 I’m currently learning Git and Python.
 >- 💬 Ask me about programming and my jobs.
->- 😄 I'm also known by jupiter.
 
 ### Programming languages
 >- Python
->- C#
 
 ### Used technologies
->- **Git** 
->- **GitHub**
->- **Windows**
->- **Visual studio code**
->- **Python IDLE**
->- Pycharm
->- Visual studio
+>- Git
+>- GitHub
+>- **Linux(Arch)**
+>- **Kate(KDE)**
 
 ## Social medias:
 >- **[Telegtam](https://t.me/pghazipour)**
