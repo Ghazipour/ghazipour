@@ -1,10 +1,5 @@
 # Hi there 👋👌
 
-### About me
->- 🔭 I’m currently working on Git and Python.
->- 🌱 I’m currently learning Git and Python.
->- 💬 Ask me about programming and my jobs.
-
 ### Programming languages
 >- Python
 
